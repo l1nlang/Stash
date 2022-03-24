@@ -94,5 +94,4 @@ http:
 
     - ^https?:\/\/app\.biliintl\.com\/(intl\/gateway\/v\d\/app\/data\/report\/heartbeat\/mobile|x\/(history|reply)/v\d/add) url script-request-body https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Rewrite/bstar.js
 
-# AICoin
-    - ^http:\/\/(www.)?aicoin\.cn\/ url 302 https://www.aicoin.com/
+
